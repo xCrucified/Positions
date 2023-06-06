@@ -31,7 +31,7 @@
                 <Button Content="Here could be your photo" Height="174" Width="261" HorizontalAlignment="Left" Background="LightCyan"/>
             </StackPanel>
 
-            <Label Content="Image Galary" Width="158" Margin="0,192,0,-12"  Grid.Row="2" HorizontalAlignment="Center" Height="NaN"/>
+            <Label Content="Image Galary" Width="430" Margin="0,223,0,-12"  Grid.Row="2" HorizontalAlignment="Center" Height="NaN"/>
             <TextBlock x:Name="Third_Copy" Width="189" Foreground="Black" Background="CadetBlue" Padding="10" TextWrapping="Wrap" HorizontalAlignment="Left" Grid.Row="2" Margin="261,4,0,113" Text="When in 1840 and later years the tsarist Russia led the war of grasp against the liberation movement of highlanders, the official press cynically called those actions the subduing of wild tribes. A common thinking of the  was offended by the vice of chauvinism and the imperial patriotism." />
             <TextBlock x:Name="First_Copy" Width="189" Foreground="Black" Background="CadetBlue" Padding="10" TextWrapping="Wrap" Text="ohn Weir (Ivan Fedorovych Viv'yurskiy), a Canadian of the Ukrainian lineage, was a talented English-speaking translator of the second half of the 19ih century. During his life he translated 29 Shevchenko's poetic works, a prosaic foreword to the poem of «The Haidamaky»" HorizontalAlignment="Left" Margin="261,1,0,4"/>
         </Grid>
