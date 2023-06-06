@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Positions"
         mc:Ignorable="d"
-        Title="Program..." Height="670" Width="450" Background="DarkSlateGray">
+        Title="Program..." Height="700" Width="450" Background="DarkSlateGray">
 
     <DockPanel>
         <DockPanel LastChildFill="False" DockPanel.Dock="Bottom" HorizontalAlignment="Center" Margin="5">
